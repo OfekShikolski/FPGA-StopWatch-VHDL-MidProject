@@ -19,7 +19,6 @@ This project implements a modular digital stopwatch entirely in VHDL, designed f
 ### 📁 Contents
 - Source VHDL files (`src/`)
 - Testbenches (`tb/`)
-- Quartus project files and constraints (`quartus_project/`)
-- Project report (`docs/`)
+- Quartus project files and constraints (`par/`)
 
 Built by: **Ofek Shikolski** & **Omer Reuven**, Spring 2025.
